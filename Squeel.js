@@ -7,6 +7,9 @@ class Squeel {
   }
 
   select(nodeType='') {
+    if (nodeType === '*') {
+      nodeType = '';
+    }
     this.nodeType = nodeType;
     return this;
   }
