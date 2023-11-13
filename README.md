@@ -1,4 +1,4 @@
-# Squeel - JavaScript DOM Query Builder
+# Squeel - SQL-like documentQuerySelector wrapper
 
 Squeel is a lightweight JavaScript library for building DOM queries in a simple and expressive way. It allows you to construct complex queries with ease, providing a fluent interface for selecting elements based on node type, class, ID, and attributes.
 
@@ -6,7 +6,7 @@ Squeel is a lightweight JavaScript library for building DOM queries in a simple 
 
 You can include Squeel in your project by adding the following script tag to your HTML file:
 
-`<script src="path/to/squeel.js"></script>`
+`<script src="https://raw.githubusercontent.com/cemreefe/squeel/main/Squeel.js"></script>`
 
 ## Usage
 
