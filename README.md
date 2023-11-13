@@ -1,4 +1,4 @@
-# Squeel - SQL-like documentQuerySelector wrapper
+# Squeel - SQL-like wrapper for querying HTML nodes
 
 Squeel is a lightweight JavaScript library for building DOM queries in a simple and expressive way. It allows you to construct complex queries with ease, providing a fluent interface for selecting elements based on node type, class, ID, and attributes.
 
